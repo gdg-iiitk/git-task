@@ -33,3 +33,4 @@ Go to Github > Settings > SSH and GPG keys > New SSH key.
 Give a name of your choice, paste the copied key and save.
 
 Your SSH Public key is now authorized with GitHub and is ready to use.
+i change the commit
